@@ -25,7 +25,7 @@ const Footer = () => (
 
     <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
       <p className="text-white text-left text-xs">Shubhamkush01@gmail.com</p>
-      <p className="text-white text-right text-xs">Jai Bajranj Bali</p>
+      <p className="text-white text-right text-xs">8824013820</p>
     </div>
   </div>
 );
